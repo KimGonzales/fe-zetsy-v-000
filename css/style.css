@@ -52,15 +52,9 @@ p {
 	border-width: thick;
 }
 
-.copy {
+footer {
 	display: inline;
 	float: right;
 	font-size: 0.8em;
 	color: #555;
-}
-
-
-header a {
-	color: rgb(152,173,166);
-	text-decoration: none;
 }

@@ -49,7 +49,7 @@ p {
 #press a img {
 	border: solid;
 	border-color: rgb(204, 204,204);
-	border-width: thick;
+	border-width: normal;
 	padding: 1px;
 }
 

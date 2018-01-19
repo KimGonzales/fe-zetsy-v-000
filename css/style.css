@@ -29,14 +29,12 @@ h1 {
 	margin: 0 0 5px;
 }
 
-header {
-	text-decoration: underline;
-	color: rgb(152,173,166);
-}
 
 .necklace {
 	border: 6px solid;
 	border-color: rgb(152,173,166);
+	text-decoration: overline;
+	color: rgb(152,173,166);
 
 }
 

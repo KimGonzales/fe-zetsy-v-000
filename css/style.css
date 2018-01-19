@@ -50,6 +50,7 @@ p {
 	border: solid;
 	border-color: rgb(204, 204,204);
 	border-width: thick;
+	width: 25%;
 }
 
 footer {

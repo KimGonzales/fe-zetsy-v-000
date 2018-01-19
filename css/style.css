@@ -33,6 +33,7 @@ h1 {
 .necklace {
 	border: 6px solid;
 	border-color: rgb(152,173,166);
+	text-decoration-line: none;
 
 }
 

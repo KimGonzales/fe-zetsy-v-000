@@ -50,12 +50,9 @@ p {
 	border: solid;
 	border-color: rgb(204, 204,204);
 	border-width: thick;
-	width: 25%;
+	border: 5px;
 }
 
-alt="Bergorf" {
-	float: right;
-}
 
 footer {
 	display: inline;
